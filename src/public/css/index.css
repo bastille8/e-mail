@@ -1,0 +1,45 @@
+.attendance__message {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.attendance__panel {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.attendance__button {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.attendance__button-submit {
+    padding: 5px;
+    width: 60%;
+    height: 200px;
+    border: none;
+    border-radius: 3px;
+    background: #ffffff;
+    color: #000000;
+    cursor: pointer;
+}
+
+.attendance__button-submitdisabled {
+    padding: 5px;
+    width: 60%;
+    height: 200px;
+    border: none;
+    border-radius: 3px;
+    background: #ffffff;
+    cursor: pointer;
+}
+
+.attendance__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+}
